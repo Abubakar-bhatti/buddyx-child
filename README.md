@@ -22,7 +22,7 @@ Our platform boasts many impressive features, such as WooCommerce compatibility,
 
 There are multiple ways you can use a child theme with the BuddyX Theme, Use any one method mentioned below to create a child theme or use a child theme we have created.
 
-1. Download the child theme from Github - https://github.com/Abubakar-bhatti/buddyx-child.git
+1. Download the child theme from Github - https://github.com/Abubakar-bhatti/buddyx-child
 2. More information on creating a child theme - https://codex.wordpress.org/Child_Themes
 
 == BuddyX License ==
